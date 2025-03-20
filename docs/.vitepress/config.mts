@@ -44,41 +44,41 @@ export default defineConfig({
       {
         text: '1.基础规范指南',
         items: [
-          { text: '制作要求(Production Requirements)', link: '/Doc/01.doc/01.md' },
-          { text: '字体规范(Font Specifications)', link: '/Doc/01.doc/02.md' },
-          { text: '音乐规范(Music Specifications)', link: '/Doc/01.doc/03.md' },
-          { text: '片尾规范(End - credits Specifications)', link: '/Doc/01.doc/04.md' },
-          { text: '交付指南(Delivery Guide)', link: '/Doc/01.doc/05.md' },  
+          { text: '制作要求(Production Requirements)', link: '/Doc/01/01.md' },
+          { text: '字体规范(Font Specifications)', link: '/Doc/01/02.md' },
+          { text: '音乐规范(Music Specifications)', link: '/Doc/01/03.md' },
+          { text: '片尾规范(End - credits Specifications)', link: '/Doc/01/04.md' },
+          { text: '交付指南(Delivery Guide)', link: '/Doc/01/05.md' },  
         ]
       },
       {
         text: '2.进阶规范指南',
         items: [
-          { text: '品牌标识(Brand Identity)', link: '/Doc/02.doc/01.md' },
-          { text: '品牌画像(Brand Portrait)', link: '/Doc/02.doc/02.md' },
-          { text: '品牌配色(Brand Color Scheme)', link: '/Doc/02.doc/03.md' },
-          { text: '品牌动画(Brand Animation)', link: '/Doc/02.doc/04.md' },
-          { text: '品牌音效(Brand Sound Effect)', link: '/Doc/02.doc/05.md' }
+          { text: '品牌标识(Brand Identity)', link: '/Doc/02/01.md' },
+          { text: '品牌画像(Brand Portrait)', link: '/Doc/02/02.md' },
+          { text: '品牌配色(Brand Color Scheme)', link: '/Doc/02/03.md' },
+          { text: '品牌动画(Brand Animation)', link: '/Doc/02/04.md' },
+          { text: '品牌音效(Brand Sound Effect)', link: '/Doc/02/05.md' }
         ]
       },
       {
         text: '3.品牌指南',
         items: [
-          { text: 'Anker(安克)', link: '/Doc/03.doc/01.md' },
-          { text: 'Eufy(优菲)', link: '/Doc/03.doc/02.md' },
-          { text: 'Nebula(星云)', link: '/Doc/03.doc/03.md' },
-          { text: 'Soundcore(声阔)', link: '/Doc/03.doc/04.md' },
-          { text: '安克创新(Anker Innovations)', link: '/Doc/03.doc/05.md' }
+          { text: 'Anker(安克)', link: '/Doc/03/01.md' },
+          { text: 'Eufy(优菲)', link: '/Doc/03/02.md' },
+          { text: 'Nebula(星云)', link: '/Doc/03/03.md' },
+          { text: 'Soundcore(声阔)', link: '/Doc/03/04.md' },
+          { text: '安克创新(Anker Innovations)', link: '/Doc/03/05.md' }
         ]
       },
       {
         text: '4.关于视频团队',
         items: [
-          { text: '关于视频团队(About the Video Team))', link: '/Doc/04.doc/01.md' },
-          { text: '关于我们(About Us)', link: '/Doc/04.doc/02.md' },
-          { text: '外包流程(Outsourcing Process)', link: '/Doc/04.doc/03.md' },
-          { text: '对接流程(Docking Process)', link: '/Doc/04.doc/04.md' },
-          { text: 'How to 项目组(How to Project Team)', link: '/Doc/04.doc/05.md' }
+          { text: '关于视频团队(About the Video Team))', link: '/Doc/04/01.md' },
+          { text: '关于我们(About Us)', link: '/Doc/04/02.md' },
+          { text: '外包流程(Outsourcing Process)', link: '/Doc/04/03.md' },
+          { text: '对接流程(Docking Process)', link: '/Doc/04/04.md' },
+          { text: 'How to 项目组(How to Project Team)', link: '/Doc/04/05.md' }
         ]
       }
     ],
